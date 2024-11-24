@@ -52,7 +52,7 @@ This project makes use of few of the below commonly used libraries:
 
 2. **Launch Jupyter Notebook**:
     ```sh
-    jupyter notebook "Eniac A:B Test.ipynb"
+    jupyter notebook "Eniac AB Test.ipynb"
     ```
 3. **Follow the Steps in the Notebook**:
     - The notebook is divided into sections that walk you through the data exploration, analysis, and chi-square test.
