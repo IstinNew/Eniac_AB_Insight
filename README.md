@@ -7,6 +7,7 @@ This repository contains the final project for Eniac's A/B testing. The project 
 - `Eniac AB Test.ipynb`: Jupyter notebook containing the full analysis and code for the A/B test.
 - `chart.png`: Image file with the A/B test results.
 - `data/`: Folder containing sample datasets used for the analysis.
+- `notebook/`: Folder containing notebook used for the analysis.
 - `results/`: Folder containing the results and plots generated from the analysis.
 
 ## Highlights
