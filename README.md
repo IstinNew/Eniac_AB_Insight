@@ -4,7 +4,7 @@
 This repository contains the final project for Eniac's A/B testing. The project focuses on improving iPhone 13 sales by increasing the Click-Through Rate (CTR) of the “SHOP NOW” button through A/B testing. This repository includes a detailed analysis, visual interpretation, and relevant scripts.
 
 ## Project Structure
-- `Eniac A:B Test.ipynb`: Jupyter notebook containing the full analysis and code for the A/B test.
+- `Eniac AB Test.ipynb`: Jupyter notebook containing the full analysis and code for the A/B test.
 - `chart.png`: Image file with the A/B test results.
 - `data/`: Folder containing sample datasets used for the analysis.
 - `results/`: Folder containing the results and plots generated from the analysis.
@@ -36,7 +36,7 @@ This repository contains the final project for Eniac's A/B testing. The project 
     ```
 3. **Run the Jupyter Notebook**:
     ```sh
-    jupyter notebook "Eniac A:B Test.ipynb"
+    jupyter notebook "Eniac AB Test.ipynb"
     ```
 ## A/B Testing Chart
 ![A/B Testing Chart](chart.png)
