@@ -17,7 +17,39 @@
     ```
 
 ## Running the Analysis
-1. 
+1. ## Commonly Used Libraries
+This project makes use of few of the below commonly used libraries:
+- **Pandas**: Data manipulation and analysis.
+  - Installation: `pip install pandas`
+  - Import: `import pandas as pd`
+- **NumPy**: Numerical computing and array operations.
+  - Installation: `pip install numpy`
+  - Import: `import numpy as np`
+- **Matplotlib**: Data visualization.
+  - Installation: `pip install matplotlib`
+  - Import: `import matplotlib.pyplot as plt`
+- **Seaborn**: Statistical data visualization.
+  - Installation: `pip install seaborn`
+  - Import: `import seaborn as sns`
+- **SciPy**: Scientific computing.
+  - Installation: `pip install scipy`
+  - Import: `import scipy.stats as stats`
+- **scikit-learn**: Machine learning and data mining.
+  - Installation: `pip install scikit-learn`
+  - Import: `from sklearn.model_selection import train_test_split`
+- **Statsmodels**: Statistical modeling and hypothesis testing.
+  - Installation: `pip install statsmodels`
+  - Import: `import statsmodels.api as sm`
+- **Jupyter Notebook**: Interactive computing and data analysis.
+  - Installation: `pip install notebook`
+  - Usage: `jupyter notebook`
+- **Plotly**: Interactive graphing library.
+  - Installation: `pip install plotly`
+  - Import: `import plotly.express as px`
+- **SQLAlchemy**: SQL toolkit and ORM library.
+  - Installation: `pip install sqlalchemy`
+  - Import: `from sqlalchemy import create_engine`
+
 2. **Launch Jupyter Notebook**:
     ```sh
     jupyter notebook "Eniac A:B Test.ipynb"
