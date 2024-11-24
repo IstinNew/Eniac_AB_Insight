@@ -9,6 +9,21 @@ This repository contains the final project for Eniac's A/B testing. The project 
 - `data/`: Folder containing sample datasets used for the analysis.
 - `results/`: Folder containing the results and plots generated from the analysis.
 
+## Highlights
+- **Data Analysis**: Comprehensive analysis using Jupyter Notebook, providing insights into user behavior and engagement.
+- **Visualization**: Clear and informative visual representations of A/B testing results.
+- **Statistical Methods**: Application of statistical techniques, including chi-square tests, to validate the results.
+- **Reproducibility**: Ensuring reproducibility of results with clearly defined steps and code.
+
+## Challenges
+- **Data Collection**: Ensuring accurate and unbiased data collection for the A/B test.
+- **Analysis Accuracy**: Applying appropriate statistical methods to derive meaningful conclusions.
+- **User Engagement**: Designing effective experiments to measure user engagement accurately.
+- 
+## Links to Previous Projects
+1. **First Project**: [Magist Eniac Case Study](https://github.com/IstinNew/magist-eniac-case-study)
+2. **Second Project**: [Eniac's Discount Strategy Analysis](https://github.com/IstinNew/Enaic-s-Discount-Strategy-Analysis)
+
 ## Getting Started
 1. **Clone the Repository**:
     ```sh
@@ -25,17 +40,6 @@ This repository contains the final project for Eniac's A/B testing. The project 
     ```
 ## A/B Testing Chart
 ![A/B Testing Chart](chart.png)
-
-## Highlights
-- **Data Analysis**: Comprehensive analysis using Jupyter Notebook, providing insights into user behavior and engagement.
-- **Visualization**: Clear and informative visual representations of A/B testing results.
-- **Statistical Methods**: Application of statistical techniques, including chi-square tests, to validate the results.
-- **Reproducibility**: Ensuring reproducibility of results with clearly defined steps and code.
-
-## Challenges
-- **Data Collection**: Ensuring accurate and unbiased data collection for the A/B test.
-- **Analysis Accuracy**: Applying appropriate statistical methods to derive meaningful conclusions.
-- **User Engagement**: Designing effective experiments to measure user engagement accurately.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
