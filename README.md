@@ -41,7 +41,8 @@ This repository contains the final project for Eniac's A/B testing. The project 
     ```
 ## A/B Testing Chart
 ![A/B Testing Chart](chart.png)
-**Personal Opinion**: As per performed Chi-square test to check for statistical significance, version C comes as the winner.
+**Personal Opinion**: 
+As per performed Chi-square test to check for statistical significance, version C comes as the winner.
 Howvever, between Versions A & C there is a marginal difference as compared to when comparing with Versions B & D. Hence would suggest to re-assess the metrics.
 
 ## License
