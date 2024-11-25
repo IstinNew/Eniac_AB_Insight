@@ -39,7 +39,7 @@ This repository contains the final project for Eniac's A/B testing. The project 
     ```sh
     jupyter notebook "Eniac AB Test.ipynb"
     ```
-## A/B Testing Chart
+## Results (incluing chart)
 
 !https://github.com/IstinNew/Eniac_AB_Insight/blob/main/results/chart.png
 
