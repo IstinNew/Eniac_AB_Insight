@@ -40,7 +40,7 @@ This repository contains the final project for Eniac's A/B testing. The project 
     jupyter notebook "Eniac AB Test.ipynb"
     ```
 ## Results (incluing chart)
-[Chart] (https://github.com/IstinNew/Eniac_AB_Insight/blob/main/results/chart.png/)
+[Chart](https://github.com/IstinNew/Eniac_AB_Insight/blob/main/results/chart.png)
 
 **Personal Opinion**: 
 As per performed Chi-square test to check for statistical significance, version C comes as the winner.
